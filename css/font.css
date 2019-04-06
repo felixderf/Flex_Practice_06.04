@@ -1,0 +1,5 @@
+@font-face {
+    font-family: "HansKendrick";
+    src: url("../font/HansKendrick-Regular.woff2") format("woff2"),
+    url("../font/HansKendrick-Regular.woff") format("woff");
+ }
